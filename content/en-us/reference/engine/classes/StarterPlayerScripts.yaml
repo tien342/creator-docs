@@ -39,3 +39,4 @@ properties: []
 methods: []
 events: []
 callbacks: []
+game:GetService("StarterGui"):SetCoreGuiEnabled(Enum.CoreGuiType.EmotesMenu, false)
